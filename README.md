@@ -1,5 +1,5 @@
 - 👋 Hi, I’m  Denys Havryliak "Den4ikLvivUA"
-- 👀 I’m interested in Mobile Development
+- 👀 I’m iOS Developer
 
 - 📫 You can reach me here:
 https://t.me/den4iklvivua
