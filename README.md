@@ -1,9 +1,8 @@
 - 👋 Hi, I’m  Denys Havryliak "Den4ikLvivUA"
 - 👀 I’m iOS Developer for more than 4 years.
-Also I have a small team that is ready 
-to take some project,
-Details here:
-https://den4iklvivua.notion.site/Prepared-iOS-Team-for-your-business-aff21426cd0e4e5681086d5bae1a6da5
+
+CV here:
+https://den4iklvivua.notion.site/Senior-iOS-Developer-2955f8fd183f44948562cf132313b63b
 
 
 - 📫 You can reach me here:
