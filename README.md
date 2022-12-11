@@ -1,5 +1,5 @@
 - 👋 Hi, I’m  Denys Havryliak "Den4ikLvivUA"
-- 👀 I’m iOS Developer for more than 4 years.
+- 👀 I’m iOS Developer for more than 5 years.
 
 CV here:
 https://den4iklvivua.notion.site/Senior-iOS-Developer-2955f8fd183f44948562cf132313b63b
