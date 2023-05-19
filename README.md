@@ -8,6 +8,7 @@ CV here:
 
 - 📫 You can reach me here:
 https://t.me/denys_apple
+
 E-mail:
 havryliak.denys@gmail.com
 
